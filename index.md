@@ -4,6 +4,15 @@ The **Crypts** mobile app provides real-time sentiment analysis for crypto curre
 
 ![alt text][screenshot-ios-1]
 
+### Rating scheme
+
+The sentiment rating range is defined between -5 and 5. The higher the rating, the better the sentiment. A rating of 0 means that the sentiment is neutral.
+
+| Rating | Sentiment|
+| ------ |:--------:|
+| -5     | negative |
+|  0     | neutral  |
+| +5     | positive |
 
 ## Availability
 
