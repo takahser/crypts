@@ -16,12 +16,17 @@ The sentiment rating range is defined between -5 and 5. The higher the rating, t
 
 ## Availability
 
-Currently we only provide support for iOS devices. However, an android version will be released soon.
+Currently we only provide support for iOS devices:
+
+- iPhone
+- iPad
+
+An android version will be released soon.
 
 [Download the iOS app now!](https://www.apple.com/us/search/crypts?src=globalnav)
 
 ## Roadmap
 
-Future releases are subject to contain new features such as technical analysis and enhanced configurability.
+Future releases are subject to contain new coin health indicators such as technical analysis and enhanced configurability.
 
 [screenshot-ios-1]: crypts-iOS-small.png "Crypts mobile app"
