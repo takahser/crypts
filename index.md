@@ -15,4 +15,4 @@ Currently we only provide support for iOS devices. However, an android version w
 
 Future releases are subject to contain new features such as technical analysis and enhanced configurability.
 
-[screenshot-ios-1]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Crypts mobile app"
+[screenshot-ios-1]: crypts-iOS.png "Crypts mobile app"
